@@ -19,6 +19,7 @@ python app.py
 Paria Taheri Bandari
 
 
+
 ## API Endpoint
 
 ### GET /api/v1/telecom
@@ -37,3 +38,5 @@ http://127.0.0.1:5000/api/v1/telecom
     "MonthlyCharges": 70.5
   }
 ]
+
+
